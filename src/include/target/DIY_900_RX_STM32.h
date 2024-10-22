@@ -22,7 +22,7 @@
 #define GPIO_PIN_DEBUG_TX    PB10 // USART3
 
 #define GPIO_PIN_LED_GREEN   PC13
-#define GPIO_LED_GREEN_INVERTED 1
+#define GPIO_LED_GREEN_INVERTED 0 // Flipped 10/22/2024
 
 // Output Power
 #define MinPower                PWR_10mW
